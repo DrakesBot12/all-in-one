@@ -1,3 +1,5 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 function F0(e, t) {
     for (var n = 0; n < t.length; n++) {
         const r = t[n];
@@ -17629,7 +17631,7 @@ function R3() {
                 children: "Discord | All in One"
             }), h.jsx("link", {
                 rel: "canonical",
-                href: "https://community-architects.net"
+                href: "https://all-in-one-official.vercel.app"
             })]
         }), h.jsx(tf, {
             children: h.jsxs("div", {
@@ -17749,7 +17751,7 @@ function M3() {
                 children: "Content | All in One"
             }), h.jsx("link", {
                 rel: "canonical",
-                href: `https://community-architects.net ${t.pathname}`
+                href: `https://all-in-one-official.vercel.app ${t.pathname}`
             })]
         }), h.jsx(tf, {
             children: h.jsxs("div", {
@@ -17885,7 +17887,7 @@ function F3() {
                 children: "Applications | All in One"
             }), h.jsx("link", {
                 rel: "canonical",
-                href: `https://community-architects.net ${e.pathname}`
+                href: `https://all-in-one-official.vercel.app ${e.pathname}`
             })]
         }), h.jsx(tf, {
             children: h.jsxs("div", {
