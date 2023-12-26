@@ -1,5 +1,3 @@
-import { SpeedInsights } from "@vercel/speed-insights/next"
-
 function F0(e, t) {
     for (var n = 0; n < t.length; n++) {
         const r = t[n];
