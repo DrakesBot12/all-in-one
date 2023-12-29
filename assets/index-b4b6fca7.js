@@ -17746,7 +17746,7 @@ function M3() {
     return h.jsxs(h.Fragment, {
         children: [h.jsxs(gr, {
             children: [h.jsx("title", {
-                children: "Content | All in One"
+                children: "Контент | All in One"
             }), h.jsx("link", {
                 rel: "canonical",
                 href: `https://all-in-one-official.vercel.app ${t.pathname}`
