@@ -17882,7 +17882,7 @@ function F3() {
     return h.jsxs(h.Fragment, {
         children: [h.jsxs(gr, {
             children: [h.jsx("title", {
-                children: "Applications | All in One"
+                children: "Приложения | All in One"
             }), h.jsx("link", {
                 rel: "canonical",
                 href: `https://all-in-one-official.vercel.app ${e.pathname}`
@@ -17890,9 +17890,9 @@ function F3() {
         }), h.jsx(tf, {
             children: h.jsxs("div", {
                 children: [h.jsx("h1", {
-                    children: "Applications & Forms"
+                    children: "Приложения & Формы"
                 }), h.jsx("p", {
-                    children: "Apply for moderator or professional role positions and take an active role in shaping and managing our community, or sign up for our frequent server consultation events."
+                    children: "Здесь вы можете подать заявку на роли модератора или профессионала в своей сфере деятельности и активно участвовать в формировании и управлении нашим сообществом или вы можете подать заявку на консультацию по вашему Discord серверу."
                 })]
             })
         }), h.jsx("main", {
@@ -17906,27 +17906,27 @@ function F3() {
                         style: {
                             color: "var(--color-text-application-mod)"
                         },
-                        children: "Moderation Team"
+                        children: "Наша Команда"
                     }), h.jsx("p", {
-                        children: "Our community moderators help ensure that the community remains a safe and friendly space for all members. They monitor the community for rule violations, respond to member questions and concerns, and help facilitate positive interactions between members."
+                        children: "Каждое сообщество не может быть идиальным и рано или поздно появяться такие люди, которые будут нарушать наши правила и обходить нашего бота. Поэтому мы набираем команду модераторов для борьбы с такими людьми. Подайте заявку и станьте частью нашего дружного коллектива!"
                     }), h.jsx("h3", {
                         style: {
                             color: "var(--color-text-application-mod)"
                         },
-                        children: "Requirements"
+                        children: "Требования"
                     }), h.jsxs("ul", {
                         children: [h.jsx("li", {
-                            children: "You must be at least 16 years old in order to apply for this moderator position."
+                            children: "Вам должно быть не менее 14 лет чтобы подать заявку в нашу команду."
                         }), h.jsx("li", {
-                            children: "Prior experience in community moderation is not a necessity."
+                            children: "Предыдущий опыт модерирования/администрирования серверов должен быть, но не обязателен."
                         }), h.jsx("li", {
-                            children: "Prior message activity within the community."
+                            children: "Текстовая активность в нашем сообществе ранее."
                         }), h.jsx("li", {
-                            children: "General familiarity with how the server works and is built up."
+                            children: "Общие знания того, как создавался и работает сервер."
                         })]
                     }), h.jsx(Gt, {
                         ext: !0,
-                        text: "Apply Now",
+                        text: "Подать Заявку",
                         destination: "/",
                         arrow: !0
                     })]
@@ -17935,25 +17935,25 @@ function F3() {
                         style: {
                             color: "var(--color-text-application-professional)"
                         },
-                        children: "Professional Role"
+                        children: "Роль Профессионала"
                     }), h.jsx("p", {
-                        children: "Our Industry Community Professionals are experts in particular areas related to community management. They use their skills and knowledge to help shape huge exemplary communities together with well established projects, companies and brands."
+                        children: "Наши профессионалы в отрасли сообщества являются экспертами в определенных областях, связанных с управлением сообществом. Они используют свои навыки и знания, чтобы помочь сформировать огромные образцовые сообщества вместе с хорошо устоявшимися проектами, компаниями и брендами."
                     }), h.jsx("h3", {
                         style: {
                             color: "var(--color-text-application-professional)"
                         },
-                        children: "Requirements"
+                        children: "Требования"
                     }), h.jsxs("ul", {
                         children: [h.jsx("li", {
-                            children: "You need to currently work in professional community management."
+                            children: "В настоящее время вам нужно работать в управлении профессиональным сообществом."
                         }), h.jsx("li", {
-                            children: "You must be at least 18 years old."
+                            children: "Вам должно быть не менее 18 лет."
                         }), h.jsx("li", {
-                            children: "You must have an industry email (someone@example.com) and LinkedIn profile."
+                            children: "У вас должна быть совственная почта (someone@example.com)."
                         })]
                     }), h.jsx(Gt, {
                         ext: !0,
-                        text: "Apply Now",
+                        text: "Подать Заявку",
                         destination: "/",
                         arrow: !0
                     })]
@@ -17962,25 +17962,25 @@ function F3() {
                         style: {
                             color: "var(--color-text-application-consultations)"
                         },
-                        children: "Server Consultations"
+                        children: "Консультация по Серверу"
                     }), h.jsx("p", {
-                        children: "Our experienced team of community managers will provide personalized advice and help you find solutions to your community's pain points in one-on-one consultations on the Podium stage. Don't miss this opportunity to get expert guidance and take your community to the next level."
+                        children: "Наша опытная команда менеджеров сообщества предоставит персонализированные советы и поможет вам найти решения для болевых точек вашего сообщества в консультациях один на один в голосовом канале или трибуне. Не упустите эту возможность, чтобы получить экспертное руководство и вывести свое сообщество на следующий уровень."
                     }), h.jsx("h3", {
                         style: {
                             color: "var(--color-text-application-consultations)"
                         },
-                        children: "Guidelines"
+                        children: "Рекомендации"
                     }), h.jsxs("ul", {
                         children: [h.jsx("li", {
-                            children: "Ideally have a sizeable community; we won't tell you what community to make."
+                            children: "В идеале иметь уже готовое сообщество. Мы не даём советы какие сообщества вам делать."
                         }), h.jsx("li", {
-                            children: 'Please avoid "Discord meta" communities; we love creators or topic/interest based!'
+                            children: 'Постарайтесь не присылать нам "Discord Meta" сообщества; Мы любим создателей и их темы/интересы!'
                         }), h.jsx("li", {
-                            children: "You must be a person of authority on the community you put forward."
+                            children: "Вы должны быть создателем того сообщества которое присылайте нам на консультацию."
                         })]
                     }), h.jsx(Gt, {
                         ext: !0,
-                        text: "Apply Now",
+                        text: "Подать Заявку",
                         destination: "/",
                         arrow: !0
                     })]
@@ -18025,9 +18025,9 @@ function D3() {
                     children: [h.jsxs("div", {
                         className: "contentblock-text",
                         children: [h.jsx("h2", {
-                            children: "Not Found"
+                            children: "Не найдено"
                         }), h.jsxs("p", {
-                            children: ["The requested page was not found.", h.jsxs("span", {
+                            children: ["Запрошиваямая страница или скрипт не найден, обратитесь в поддержку с ссылкой на данную страницу.", h.jsxs("span", {
                                 ref: r,
                                 className: "secret",
                                 children: [h.jsx("br", {}), h.jsxs("b", {
@@ -18039,7 +18039,7 @@ function D3() {
                         }), h.jsx("div", {
                             className: "contentblock-actions",
                             children: h.jsx(Gt, {
-                                text: "Home",
+                                text: "Главная",
                                 destination: "/",
                                 arrow: !0
                             })
