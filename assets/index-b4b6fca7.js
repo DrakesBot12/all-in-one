@@ -17626,7 +17626,7 @@ function R3() {
     return h.jsxs(h.Fragment, {
         children: [h.jsxs(gr, {
             children: [h.jsx("title", {
-                children: "Discord | All in One"
+                children: "Главная | All in One"
             }), h.jsx("link", {
                 rel: "canonical",
                 href: "https://all-in-one-official.vercel.app"
@@ -17734,12 +17734,12 @@ function R3() {
         })]
     })
 }
-const P3 = "/assets/valorant-dark-b2f11370.png"
-  , _3 = "/assets/valorant-light-5134f029.png"
-  , j3 = "/assets/disabilitypride-dark-af1377e7.png"
-  , $3 = "/assets/disabilitypride-light-a99d1504.png"
-  , N3 = "/assets/pride-dark-600f3913.png"
-  , L3 = "/assets/pride-light-ce111f95.png";
+const P3 = "/assets/img_5B.png"
+  , _3 = "/assets/img_5W.png"
+  , j3 = "/assets/img_3B.png"
+  , $3 = "/assets/img_3W.png"
+  , N3 = "/assets/img_6B.png"
+  , L3 = "/assets/img_6W.png";
 function M3() {
     const [e] = a1()
       , t = Yn();
@@ -17754,9 +17754,9 @@ function M3() {
         }), h.jsx(tf, {
             children: h.jsxs("div", {
                 children: [h.jsx("h1", {
-                    children: "Content & Resources"
+                    children: "Контент & Ресурсы"
                 }), h.jsx("p", {
-                    children: "Our staff team at All in One regularly hosts interactive events, featuring special speakers, discussing various aspects of community management."
+                    children: "Наша команда по вашему желанию проводит интересные мероприятия и конкурсы, здесь мы расскажем о них и о том, какой контент  у нас есть на сервере."
                 })]
             })
         }), h.jsxs("main", {
@@ -17767,18 +17767,18 @@ function M3() {
                     children: [h.jsxs("div", {
                         className: "contentblock-tagrow",
                         children: [h.jsx("h2", {
-                            children: "Flokie Interview"
+                            children: "БОТ All in One"
                         }), h.jsx(Ca, {
-                            color: "red",
-                            children: "Creators on Discord"
+                            color: "green",
+                            children: "О нашем боте"
                         })]
                     }), h.jsx("p", {
-                        children: "We'll be joined by Flokie to learn more about what challenges arise when running one of the biggest communities on the platform."
+                        children: "Наш бот был создан Samurai - Со-владельцем сервера. Бот постоянно обновляется и совершенствуется чтобы наше сообщество было в полной безопасности."
                     }), h.jsx("div", {
                         className: "contentblock-actions",
                         children: h.jsx(Gt, {
                             disabled: !0,
-                            text: "Watch Video",
+                            text: "Добавить Бота",
                             ext: !0,
                             destination: "/",
                             arrow: !0
@@ -17800,19 +17800,19 @@ function M3() {
                     children: [h.jsxs("div", {
                         className: "contentblock-tagrow",
                         children: [h.jsx("h2", {
-                            children: "Disability Pride"
+                            children: "Discord | All in One"
                         }), h.jsx(Ca, {
                             color: "green",
-                            children: "Communities on Discord"
+                            children: "О нашем сервере"
                         })]
                     }), h.jsx("p", {
-                        children: "We will be discussing the language of disability as well as bringing awareness with your community interactions."
+                        children: "Кратко расскажем о наших владельцах: DrakesWeb.exe - Самый главный, Основатель сервера. Samurai - Со-владелец сервера, создатель бота All in One."
                     }), h.jsx("div", {
                         className: "contentblock-actions",
                         children: h.jsx(Gt, {
-                            text: "Watch Video",
+                            text: "Присоединиться",
                             ext: !0,
-                            destination: "/",
+                            destination: "https://discord.gg/hAyBMhre7h",
                             arrow: !0
                         })
                     })]
@@ -17832,17 +17832,17 @@ function M3() {
                     children: [h.jsxs("div", {
                         className: "contentblock-tagrow",
                         children: [h.jsx("h2", {
-                            children: "Pride"
+                            children: "Мероприятия"
                         }), h.jsx(Ca, {
                             color: "green",
-                            children: "Communities on Discord"
+                            children: "О наших мероприятиях"
                         })]
                     }), h.jsx("p", {
-                        children: "We're celebrating spaces that champion the LGBTQ+ community, for showing support to their community members."
+                        children: "Наши мероприятия проводяться в трибуне и её ведущим может являться любой участник! На этих мероприятиях можно узнать всё о серверах и о многом другом."
                     }), h.jsx("div", {
                         className: "contentblock-actions",
                         children: h.jsx(Gt, {
-                            text: "Watch Video",
+                            text: "Календарь Событий",
                             ext: !0,
                             destination: "/",
                             arrow: !0
@@ -17860,13 +17860,13 @@ function M3() {
             }), h.jsxs("div", {
                 className: "supportblock",
                 children: [h.jsx("h2", {
-                    children: "Are you interested in supporting our editors?"
+                    children: "ВЫ ХОТИТЕ ПОДДЕРЖАТЬ НАШУ РАБОТУ?"
                 }), h.jsx("p", {
-                    children: "Check out our Ko-Fi page! You can directly help us with financially compensating our content editors for their hard work. Thanks!"
+                    children: "Нажмите на кнопку ниже и поддержите нашу работу. Нам важен каждый рубль вашей поддержки. Ваши пожертвования пойдут на оплату заработонной платы нашим работникам, оплату хоста для нашего бота и оплата розыгрышей и событий на сервере для всех участников нашего дружного сообщества!"
                 }), h.jsx("div", {
                     className: "supportblock-actions",
                     children: h.jsx(Gt, {
-                        text: "Donate",
+                        text: "Поддержать",
                         border: !0,
                         ext: !0,
                         destination: "/",

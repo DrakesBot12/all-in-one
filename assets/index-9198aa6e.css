@@ -521,7 +521,7 @@ code {
 }
 
 .contentblock {
-    margin: 60px 0 160px;
+    margin: 60px 0 180px;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
