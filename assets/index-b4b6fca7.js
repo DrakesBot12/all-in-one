@@ -16099,6 +16099,37 @@ const Bx = e=>S.createElement("svg", {
     d: "M29.7947 8.17665C31.0511 8.50362 32.0313 9.46091 32.371 10.6834C33.2597 14.1711 33.2018 20.765 32.3897 24.3071C32.0537 25.5296 31.0698 26.4833 29.8134 26.8139C26.2663 27.6677 10.379 27.5623 7.03727 26.8139C5.78085 26.4869 4.80073 25.5296 4.46096 24.3071C3.62272 20.983 3.6806 13.9531 4.44229 10.7016C4.77833 9.47908 5.76219 8.52541 7.01861 8.19481C11.7605 7.23207 28.107 7.54269 29.7947 8.17665ZM15.6064 13.2447L23.2234 17.4953L15.6064 21.7459V13.2447Z",
     fill: "white"
 }))
+  , Reddit = e=>S.createElement("svg", {
+    width: 35,
+    height: 29,
+    viewBox: "0 0 20 18",
+    fill: "none",
+    xmlns: "http://www.w3.org/2000/svg",
+    ...e
+  }, S.createElement("path", {
+    fillRule: "evenodd",
+    clipRule: "evenodd",
+    d: "M6.167 8a.831.831 0 0 0-.83.83c0 .459.372.84.83.831a.831.831 0 0 0 0-1.661m1.843 3.647c.315 0 1.403-.038 1.976-.611a.232.232 0 0 0 0-.306.213.213 0 0 0-.306 0c-.353.363-1.126.487-1.67.487-.545 0-1.308-.124-1.671-.487a.213.213 0 0 0-.306 0 .213.213 0 0 0 0 .306c.564.563 1.652.61 1.977.61zm.992-2.807c0 .458.373.83.831.83.458 0 .83-.381.83-.83a.831.831 0 0 0-1.66 0z",
+    fill: "white"
+  }), S.createElement("path", {
+    fillRule: "evenodd",
+    clipRule: "evenodd",
+    d: "M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.828-1.165c-.315 0-.602.124-.812.325-.801-.573-1.9-.945-3.121-.993l.534-2.501 1.738.372a.83.83 0 1 0 .83-.869.83.83 0 0 0-.744.468l-1.938-.41a.203.203 0 0 0-.153.028.186.186 0 0 0-.086.134l-.592 2.788c-1.24.038-2.358.41-3.17.992-.21-.2-.496-.324-.81-.324a1.163 1.163 0 0 0-.478 2.224c-.02.115-.029.23-.029.353 0 1.795 2.091 3.256 4.669 3.256 2.577 0 4.668-1.451 4.668-3.256 0-.114-.01-.238-.029-.353.401-.181.688-.592.688-1.069 0-.65-.525-1.165-1.165-1.165z",
+    fill: "white"
+  }))
+  , Telegram = e=>S.createElement("svg", {
+    width: 33,
+    height: 27,
+    viewBox: "0 0 16 16",
+    fill: "none",
+    xmlns: "http://www.w3.org/2000/svg",
+    ...e
+  }, S.createElement("path", {
+    fillRule: "evenodd",
+    clipRule: "evenodd",
+    d: "M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0M8.287 5.906c-.778.324-2.334.994-4.666 2.01-.378.15-.577.298-.595.442-.03.243.275.339.69.47l.175.055c.408.133.958.288 1.243.294.26.006.549-.1.868-.32 2.179-1.471 3.304-2.214 3.374-2.23.05-.012.12-.026.166.016.047.041.042.12.037.141-.03.129-1.227 1.241-1.846 1.817-.193.18-.33.307-.358.336a8.154 8.154 0 0 1-.188.186c-.38.366-.664.64.015 1.088.327.216.589.393.85.571.284.194.568.387.936.629.093.06.183.125.27.187.331.236.63.448.997.414.214-.02.435-.22.547-.82.265-1.417.786-4.486.906-5.751a1.426 1.426 0 0 0-.013-.315.337.337 0 0 0-.114-.217.526.526 0 0 0-.31-.093c-.3.005-.763.166-2.984 1.09z",
+    fill: "white"
+  }))
   , bx = e=>S.createElement("svg", {
     width: 36,
     height: 35,
@@ -17142,8 +17173,8 @@ function w0({theme: e, toggleTheme: t}) {
         })]
     })
 }
-const YS = "https://discord.gg/communityarchitects"
-  , KS = "https://discord.gg/ucRkByuMRU"
+const YS = "https://discord.gg/h4EyaVErAp"
+  , KS = "https://discord.gg/h4EyaVErAp"
   , x0 = {
     discordInviteURL: YS,
     appealsInviteURL: KS
@@ -17180,17 +17211,17 @@ function bS() {
                         className: "social-icon"
                     })
                 }), h.jsx("a", {
-                    title: "Twitter",
-                    href: "/",
+                    title: "Telegram",
+                    href: "https://t.me/all_in_one_off",
                     target: "_blank",
                     rel: "noreferrer",
-                    children: h.jsx(Qx, {
-                        alt: "Twitter",
+                    children: h.jsx(Telegram, {
+                        alt: "Telegram",
                         className: "social-icon"
                     })
                 }), h.jsx("a", {
                     title: "GitHub",
-                    href: "/",
+                    href: "https://github.com/DrakesBot12/all-in-one",
                     target: "_blank",
                     rel: "noreferrer",
                     children: h.jsx(Yx, {
@@ -17199,7 +17230,7 @@ function bS() {
                     })
                 }), h.jsx("a", {
                     title: "YouTube",
-                    href: "/",
+                    href: "https://www.youtube.com/channel/UCHJdwjPd-tcLQJ2LAt1agqQ",
                     target: "_blank",
                     rel: "noreferrer",
                     children: h.jsx(Kx, {
@@ -17207,12 +17238,12 @@ function bS() {
                         className: "social-icon"
                     })
                 }), h.jsx("a", {
-                    title: "LinkedIn",
-                    href: "/",
+                    title: "Reddit",
+                    href: "https://www.reddit.com/r/all_in_one_official",
                     target: "_blank",
                     rel: "noreferrer",
-                    children: h.jsx(bx, {
-                        alt: "LinkedIn",
+                    children: h.jsx(Reddit, {
+                        alt: "Reddit",
                         className: "social-icon"
                     })
                 })]
