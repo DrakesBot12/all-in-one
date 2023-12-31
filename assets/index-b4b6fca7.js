@@ -17757,7 +17757,7 @@ function R3() {
                         text: "Пожертвовать",
                         border: !0,
                         ext: !0,
-                        destination: "/",
+                        destination: "https://boosty.to/all-in-one",
                         arrow: !0
                     })
                 })]
@@ -17874,6 +17874,7 @@ function M3() {
                         className: "contentblock-actions",
                         children: h.jsx(Gt, {
                             text: "Календарь Событий",
+                            disabled: !0,
                             ext: !0,
                             destination: "/",
                             arrow: !0
@@ -17900,7 +17901,7 @@ function M3() {
                         text: "Поддержать",
                         border: !0,
                         ext: !0,
-                        destination: "/",
+                        destination: "https://boosty.to/all-in-one",
                         arrow: !0
                     })
                 })]
@@ -17958,7 +17959,7 @@ function F3() {
                     }), h.jsx(Gt, {
                         ext: !0,
                         text: "Подать Заявку",
-                        destination: "/",
+                        destination: "https://docs.google.com/forms/d/e/1FAIpQLSeefAM8E_FaIDrdT7SFvm1aowmfThDPEzh9uVUxwiLY6Z7qpw/viewform?vc=0&c=0&w=1&flr=0",
                         arrow: !0
                     })]
                 }), h.jsxs(ka, {
@@ -17985,7 +17986,7 @@ function F3() {
                     }), h.jsx(Gt, {
                         ext: !0,
                         text: "Подать Заявку",
-                        destination: "/",
+                        destination: "https://docs.google.com/forms/d/e/1FAIpQLSepAMk2miz3e3ZptfhtPVhMYGw9an7RLz-VjAqnqGvAYM33_g/viewform",
                         arrow: !0
                     })]
                 }), h.jsxs(ka, {
@@ -18012,7 +18013,7 @@ function F3() {
                     }), h.jsx(Gt, {
                         ext: !0,
                         text: "Подать Заявку",
-                        destination: "/",
+                        destination: "https://docs.google.com/forms/d/e/1FAIpQLSd_QHn-lNDZjQEuaKO41Rmp_pW5XNjp_A3aFfnJr2LRBcG4Ow/viewform",
                         arrow: !0
                     })]
                 })]
