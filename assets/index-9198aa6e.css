@@ -316,11 +316,16 @@ footer {
         flex-direction: column;
         row-gap: 25px
     }
+    [aria-label="Home"] {
+        display: flex;
+        width: 49px;
+    }
 }
 
 @media only screen and (max-width: 360px) {
     .footer-branding a {
-        display:none
+        display: flex;
+        width: 49px;
     }
 
     .footer-branding {
@@ -727,7 +732,8 @@ svg.disabled path {
     }
 
     .contentblock-image img {
-        display: none
+        display: block;
+        margin: 30px 0 30px;
     }
 
     .contentblock.l,.contentblock.r {
