@@ -12,6 +12,11 @@
     padding: 0 100px
 }
 
+.copyright-a {
+    color: var(--color-text-secondary);
+    font-size: 14px;
+}
+
 .menu-branding svg path {
     fill: var(--color-text-primary)
 }
@@ -130,7 +135,7 @@ nav ul li a.active {
         overflow-x: hidden;
         bottom: 0;
         border-radius: 50px 50px 0 0/50px 50px 0px 0px;
-        box-shadow: 0 -9px 24px #0000003c
+        box-shadow: 0 -9px 24px #0000003c;
     }
 
     .menu {

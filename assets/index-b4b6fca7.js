@@ -17195,8 +17195,14 @@ function bS() {
                             children: "Discord | All in One"
                         })
                     }), h.jsx("br", {}), h.jsxs("span", {
+                        className: "copyright-a",
+                        children: ["Мы не являемся аффилированным"],
+                    }), h.jsx("br", {}), h.jsxs("span", {
+                        className: "copyright-a",
+                        children: ["лицом компании Discord Inc."],
+                    }), h.jsx("br", {}), h.jsxs("span", {
                         className: "copyright",
-                        children: ["© 2023 - ", new Date().getFullYear(), " All rights reserved"]
+                        children: ["© 2023 - ", new Date().getFullYear(), " Все права защищены"]
                     })]
                 })]
             }), h.jsxs("div", {
